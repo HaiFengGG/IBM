@@ -1,0 +1,519 @@
+
+proxies:
+  - name: A090T-0.7X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1090"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A091T-0.7X-BGP-SG
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1091"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A092T-0.7X-BGP-JP
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1092"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A093T-0.7X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1093"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A094T-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1094"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A095T-1X-BGP-SG*
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1095"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A096T-1X-BGP-JP*
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1096"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A097T-1X-BGP-TW*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1097"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A098T-1X-BGP-US*
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1098"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A102U-1X-BGP-HK
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1102"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A103U-1X-BGP-HK
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1103"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A104U-1X-BGP-HK
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1104"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A105U-1X-BGP-HK
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1105"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A106U-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1106"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A112U-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1112"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A113U-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1113"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A114U-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1114"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A115U-1X-BGP-HK*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1115"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A121U-1X-BGP-SG
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1121"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A122U-1X-BGP-SG
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1122"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A123U-1X-BGP-SG
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1123"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A124U-1X-BGP-SG
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1124"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A141U-1X-BGP-JP
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1141"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A142U-1X-BGP-JP
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1142"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A143U-1X-BGP-JP
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1143"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A144U-1X-BGP-JP
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1144"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A153T-1X-BGP-TW*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1153"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A154T-1X-BGP-TW*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1154"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A155T-1X-BGP-TW*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1155"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A156T-1X-BGP-TW*
+    type: ss
+    server: ahxjkanr.internetworld.cloud
+    port:  "1156"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A161U-1X-BGP-KR
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1161"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A162U-1X-BGP-KR
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1162"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A163U-1X-BGP-KR
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1163"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A164U-1X-BGP-KR
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1164"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A171U-1X-BGP-US*
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1171"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A172U-1X-BGP-US*
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1172"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A173U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1173"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A174U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1174"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A175U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1175"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A176U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1176"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A177U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1177"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A178U-1X-BGP-US
+    type: ss
+    server: eakwegrl.internetworld.cloud
+    port:  "1178"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A191T-1X-BGP-FR
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1191"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A192T-1X-BGP-NL
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1192"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A193T-1X-BGP-UK
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1193"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A194T-1X-BGP-DE
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1194"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
+  - name: A195T-1X-BGP-IT
+    type: ss
+    server: norfjkvb.internetworld.cloud
+    port:  "1195"
+    cipher: aes-128-gcm
+    password: GOj4cX
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: shop106101106fadd7.taobao.com
